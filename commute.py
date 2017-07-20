@@ -13,4 +13,4 @@ API_Key = "AIzaSyCFgqXKCJF4OS7kqmjiZcECFTX0VM_pK4Y"
 
 request = url % (GC, TwoSigma, API_Key)
 print(request)
-
+print "test"
