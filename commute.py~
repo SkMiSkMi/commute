@@ -9,7 +9,7 @@ Rye = "ChIJyVCxxcqQwokR6GnPGTOEaxM"
 RHC = "ChIJgd5ICP6XwokRjOFdp-nyXn0"
 TwoSigma = "ChIJpf-x64pZwokRYr9BwWaVP9k"
 
-API_Key = "AIzaSyCFgqXKCJF4OS7kqmjiZcECFTX0VM_pK4Y"
+API_Key = AIzaSyCFgqXKCJF4OS7kqmjiZcECFTX0VM_pK4Y
 
 request = url % (GC, TwoSigma, API_Key)
 print(request)
