@@ -9,10 +9,19 @@ NC = "ChIJESxVNa-nwokRz27KMKkYEfg"
 Rye = "ChIJyVCxxcqQwokR6GnPGTOEaxM"
 RHC = "ChIJgd5ICP6XwokRjOFdp-nyXn0"
 TwoSigma = "ChIJpf-x64pZwokRYr9BwWaVP9k"
-
 API_Key = "AIzaSyCFgqXKCJF4OS7kqmjiZcECFTX0VM_pK4Y"
-
+# create urls
 dir_GC = url % (GC, TwoSigma, API_Key)
+dir_OldGC = url % (OldGC, TwoSigma, API_Key)
+dir_Darien = url % (Darien, TwoSigma, API_Key)
+dir_NC = url % (NC, TwoSigma, API_Key)
+dir_Rye = url % (Rye, TwoSigma, API_Key)
+dir_RHC = url % (Rye, TwoSigma, API_Key)
+
+# get durations
+for times in time
+
+
 print(request)
 output = urllib.request.urlopen(request).read()
 data = json.dumps(output)
