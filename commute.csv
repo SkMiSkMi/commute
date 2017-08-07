@@ -13,3 +13,38 @@ Greenwich,Drive: 56 mins,Train: 1 hour 15 mins,Time: 2017-08-04 15:30:01.885850
 Darien,Drive: 1 hour 5 mins,Train: 1 hour 27 mins,Time: 2017-08-04 15:30:02.410442
 NC,Drive: 1 hour 12 mins,Train: 1 hour 50 mins,Time: 2017-08-04 15:30:02.799484
 Rye,Drive: 53 mins,Train: 1 hour 20 mins,Time: 2017-08-04 15:30:03.343790
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 39 mins,Time: 2017-08-07 16:38:27.628504
+Greenwich,Drive: 56 mins,Train: 1 hour 32 mins,Time: 2017-08-07 16:38:28.159085
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 36 mins,Time: 2017-08-07 16:38:28.629828
+NC,Drive: 1 hour 12 mins,Train: 1 hour 48 mins,Time: 2017-08-07 16:38:29.054455
+Rye,Drive: 53 mins,Train: 1 hour 26 mins,Time: 2017-08-07 16:38:29.577440
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 37 mins,9am Arrival: 1 hour 41 mins,Time: 2017-08-07 18:14:21.918081
+Greenwich,Drive: 56 mins,Train: 1 hour 25 mins,9am Arrival: 1 hour 32 mins,Time: 2017-08-07 18:14:22.651580
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 28 mins,9am Arrival: 1 hour 31 mins,Time: 2017-08-07 18:14:23.412364
+NC,Drive: 1 hour 12 mins,Train: 1 hour 49 mins,9am Arrival: 1 hour 48 mins,Time: 2017-08-07 18:14:24.128287
+Rye,Drive: 53 mins,Train: 1 hour 18 mins,9am Arrival: 1 hour 25 mins,Time: 2017-08-07 18:14:24.891498
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 37 mins,9am Arrival: 1 hour 41 mins,Time: 2017-08-07 18:15:27.478575
+Greenwich,Drive: 56 mins,Train: 1 hour 25 mins,9am Arrival: 1 hour 32 mins,Time: 2017-08-07 18:15:28.113279
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 28 mins,9am Arrival: 1 hour 31 mins,Time: 2017-08-07 18:15:28.778534
+NC,Drive: 1 hour 12 mins,Train: 1 hour 49 mins,9am Arrival: 1 hour 48 mins,Time: 2017-08-07 18:15:29.574432
+Rye,Drive: 53 mins,Train: 1 hour 18 mins,9am Arrival: 1 hour 25 mins,Time: 2017-08-07 18:15:30.243450
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 37 mins,9am Arrival: 1 hour 27 minsLeave by :7:26am,Time: 2017-08-07 18:18:52.894849
+Greenwich,Drive: 56 mins,Train: 1 hour 14 mins,9am Arrival: 1 hour 15 minsLeave by :7:39am,Time: 2017-08-07 18:18:53.564234
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 28 mins,9am Arrival: 1 hour 32 minsLeave by :7:25am,Time: 2017-08-07 18:18:54.264458
+NC,Drive: 1 hour 12 mins,Train: 1 hour 49 mins,9am Arrival: 1 hour 41 minsLeave by :7:11am,Time: 2017-08-07 18:18:54.833661
+Rye,Drive: 53 mins,Train: 1 hour 19 mins,9am Arrival: 1 hour 13 minsLeave by :7:35am,Time: 2017-08-07 18:18:55.552175
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 37 mins,9am Arrival: 1 hour 27 mins and Leave by :7:26am,Time: 2017-08-07 18:19:13.549840
+Greenwich,Drive: 56 mins,Train: 1 hour 14 mins,9am Arrival: 1 hour 15 mins and Leave by :7:39am,Time: 2017-08-07 18:19:13.953544
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 28 mins,9am Arrival: 1 hour 32 mins and Leave by :7:25am,Time: 2017-08-07 18:19:14.433326
+NC,Drive: 1 hour 12 mins,Train: 1 hour 49 mins,9am Arrival: 1 hour 41 mins and Leave by :7:11am,Time: 2017-08-07 18:19:14.825606
+Rye,Drive: 53 mins,Train: 1 hour 19 mins,9am Arrival: 1 hour 13 mins and Leave by :7:35am,Time: 2017-08-07 18:19:15.310761
+Old Greenwich,Drive: 1 hour 0 mins depart by 7:26am,Train: 1 hour 27 mins and Leave by :7:26am,Time: 2017-08-07 18:22:34.573596
+Greenwich,Drive: 56 mins depart by 7:39am,Train: 1 hour 15 mins and Leave by :7:39am,Time: 2017-08-07 18:22:34.840101
+Darien,Drive: 1 hour 5 mins depart by 7:25am,Train: 1 hour 32 mins and Leave by :7:25am,Time: 2017-08-07 18:22:35.122004
+NC,Drive: 1 hour 12 mins depart by 7:11am,Train: 1 hour 41 mins and Leave by :7:11am,Time: 2017-08-07 18:22:35.418356
+Rye,Drive: 53 mins depart by 7:35am,Train: 1 hour 13 mins and Leave by :7:35am,Time: 2017-08-07 18:22:35.700751
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 27 mins and Leave by :7:26am,Time: 2017-08-07 18:27:20.805966
+Greenwich,Drive: 56 mins,Train: 1 hour 15 mins and Leave by :7:39am,Time: 2017-08-07 18:27:21.243431
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 32 mins and Leave by :7:25am,Time: 2017-08-07 18:27:22.205385
+NC,Drive: 1 hour 12 mins,Train: 1 hour 41 mins and Leave by :7:11am,Time: 2017-08-07 18:27:22.607411
+Rye,Drive: 53 mins,Train: 1 hour 13 mins and Leave by :7:35am,Time: 2017-08-07 18:27:23.054395
