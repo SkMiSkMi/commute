@@ -13,6 +13,7 @@ Greenwich,Drive: 56 mins,Train: 1 hour 15 mins,Time: 2017-08-04 15:30:01.885850
 Darien,Drive: 1 hour 5 mins,Train: 1 hour 27 mins,Time: 2017-08-04 15:30:02.410442
 NC,Drive: 1 hour 12 mins,Train: 1 hour 50 mins,Time: 2017-08-04 15:30:02.799484
 Rye,Drive: 53 mins,Train: 1 hour 20 mins,Time: 2017-08-04 15:30:03.343790
+<<<<<<< HEAD
 Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 39 mins,Time: 2017-08-07 16:38:27.628504
 Greenwich,Drive: 56 mins,Train: 1 hour 32 mins,Time: 2017-08-07 16:38:28.159085
 Darien,Drive: 1 hour 5 mins,Train: 1 hour 36 mins,Time: 2017-08-07 16:38:28.629828
@@ -48,3 +49,25 @@ Greenwich,Drive: 56 mins,Train: 1 hour 15 mins and Leave by :7:39am,Time: 2017-0
 Darien,Drive: 1 hour 5 mins,Train: 1 hour 32 mins and Leave by :7:25am,Time: 2017-08-07 18:27:22.205385
 NC,Drive: 1 hour 12 mins,Train: 1 hour 41 mins and Leave by :7:11am,Time: 2017-08-07 18:27:22.607411
 Rye,Drive: 53 mins,Train: 1 hour 13 mins and Leave by :7:35am,Time: 2017-08-07 18:27:23.054395
+=======
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 35 mins,Time: 2017-08-04 19:55:32.294817
+Greenwich,Drive: 56 mins,Train: 1 hour 27 mins,Time: 2017-08-04 19:55:32.702215
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 27 mins,Time: 2017-08-04 19:55:33.082236
+NC,Drive: 1 hour 12 mins,Train: 1 hour 50 mins,Time: 2017-08-04 19:55:33.599376
+Rye,Drive: 53 mins,Train: 1 hour 13 mins,Time: 2017-08-04 19:55:33.986237
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 36 mins,Time: 2017-08-04 20:05:22.749900
+Greenwich,Drive: 56 mins,Train: 1 hour 28 mins,Time: 2017-08-04 20:05:23.186468
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 27 mins,Time: 2017-08-04 20:05:23.772327
+NC,Drive: 1 hour 12 mins,Train: 1 hour 50 mins,Time: 2017-08-04 20:05:24.201753
+Rye,Drive: 53 mins,Train: 1 hour 21 mins,Time: 2017-08-04 20:05:24.733352
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 40 mins,Time: 2017-08-04 20:15:57.332413
+Greenwich,Drive: 56 mins,Train: 1 hour 22 mins,Time: 2017-08-04 20:15:57.783314
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 28 mins,Time: 2017-08-04 20:15:58.216058
+NC,Drive: 1 hour 12 mins,Train: 1 hour 50 mins,Time: 2017-08-04 20:15:58.664977
+Rye,Drive: 53 mins,Train: 1 hour 21 mins,Time: 2017-08-04 20:15:59.136121
+>>>>>>> 774fae0a71f80b51a6dd146392567a503d60e3ef
+Old Greenwich,Drive: 1 hour 0 mins,Train: 1 hour 27 mins and Leave by :7:26am,Time: 2017-08-07 18:32:28.164395
+Greenwich,Drive: 56 mins,Train: 1 hour 15 mins and Leave by :7:39am,Time: 2017-08-07 18:32:28.742962
+Darien,Drive: 1 hour 5 mins,Train: 1 hour 32 mins and Leave by :7:25am,Time: 2017-08-07 18:32:29.283787
+NC,Drive: 1 hour 12 mins,Train: 1 hour 41 mins and Leave by :7:11am,Time: 2017-08-07 18:32:29.761638
+Rye,Drive: 53 mins,Train: 1 hour 13 mins and Leave by :7:35am,Time: 2017-08-07 18:32:30.279026
