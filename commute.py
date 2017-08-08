@@ -26,9 +26,9 @@ for (city, locate) in towns:
     req2 = url2 % (locate, TwoSigma, API_Key, arrival)
     train = json.loads(urllib.request.urlopen(req2) .read())
     drive = json.loads(urllib.request.urlopen(req) .read())
-    times.append([city, "Drive: " + drive['routes'][0]['legs'][0]['duration']['text'], "Train: " + train['routes'][0]['legs'][0]['duration']['text'] + " and Leave by :" + train['routes'][0]['legs'][0]['departure_time']['text'], "Time: " + str(datetime.datetime.now())])
+    times.append([city, "Drive: " + drive['routes'][0]['legs'][0]['duration']['text'], "Train: " + train['routes'][0]['legs'][0]['duration']['text'], "Leave by: " + train['routes'][0]['legs'][0]['departure_time']['text'], "Time: " + str(datetime.datetime.now())])
 print(times)
 
-with open("commute.csv", "a") as f:
-    writer = csv.writer(f)
-    writer.writerows(times)
+#with open("commute.csv", "a") as f:
+#    writer = csv.writer(f)
+#    writer.writerows(times)
